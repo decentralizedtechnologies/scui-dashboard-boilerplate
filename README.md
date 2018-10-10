@@ -1,6 +1,6 @@
 # Frontend Boilerplate
 
-POC: [terminal-boilerplate](https://terminal-boilerplate.firebaseapp.com/)
+POC: [terminal-boilerplate](https://terminal-boilerplate.firebaseapp.com/dashboard/iam/index)
 
 This Angular 6+ boilerplate aims to be the skeleton of any Terminal service. 
 

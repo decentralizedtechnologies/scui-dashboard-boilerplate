@@ -5,8 +5,8 @@ import { IamModule } from './iam/iam.module';
 const routes: Routes = [
   { path: '', redirectTo: '/dashboard/iam', pathMatch: 'full' },
   {
-    path: 'dashboard/iam',
-    loadChildren: () => IamModule,
+    path: `dashboard/iam`,
+    loadChildren: `./iam/iam.module#IamModule`,
   }
 ];
 
