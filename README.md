@@ -1,5 +1,7 @@
 # Frontend Boilerplate
 
+POC: [terminal-boilerplate](https://terminal-boilerplate.firebaseapp.com/)
+
 This Angular 6+ boilerplate aims to be the skeleton of any Terminal service. 
 
 The UI features a top-menu, a header with notifications, a main menu sidebar and a main content section.
